@@ -48,8 +48,14 @@ Supported actions:
 
 ## How to Run
 
+### Frontend
+```bash
+cd client
+npm install
+npm run dev
+
 ### Backend
 ```bash
-cd backend
+cd server
 npm install
-node index.js
+npm run dev
