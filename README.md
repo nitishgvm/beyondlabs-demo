@@ -53,6 +53,7 @@ Supported actions:
 cd client
 npm install
 npm run dev
+```
 
 ### Backend
 ```bash
